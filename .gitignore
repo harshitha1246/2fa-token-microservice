@@ -1,0 +1,13 @@
+# Sensitive encrypted seed (do NOT commit)
+encrypted_seed.txt
+data/seed.txt
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
+.idea/
